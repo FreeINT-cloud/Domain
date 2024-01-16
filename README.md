@@ -1,2 +1,5 @@
-# Domain
-Free domain in *.freeint.cloud
+# Domain RU
+Бесплатный поддомен *.freeint.cloud
+Добавлю все необходимые записи в DNS
+
+✉️ admin@freeint.cloud
